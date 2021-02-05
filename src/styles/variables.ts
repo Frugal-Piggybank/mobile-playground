@@ -1,0 +1,12 @@
+export const CHARLESTON_GREEN = '#282928';
+export const PLATINUM = '#e6e6e6';
+export const COOL_GREY = '#9495b3';
+export const INDEPENDENCE = '#3e3f5b';
+export const DARK_SKY_BLUE = '#93c6d6';
+export const INDIAN_RED = '#d65c66';
+export const RUBY_RED = '#a31621';
+export const SUCCESS = '#48c774';
+export const FONT_HEADING = 'BreeSerif_400Regular';
+export const FONT_SANS_SERIF = 'Quicksand_400Regular';
+export const FONT_SANS_SERIF_BOLD = 'Quicksand_700Bold';
+export const FONT_LOGO = 'Lobster_400Regular';
